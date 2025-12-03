@@ -1,0 +1,9 @@
+export const myarray = ["camel",265,true,"5.6"]
+export const buld = {
+    watts : 10,
+    type : "LED"
+} 
+export function multiplyByFour(num) {
+  return num * 4
+}
+
